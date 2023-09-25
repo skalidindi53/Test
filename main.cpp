@@ -9,6 +9,10 @@ int main(){
     return 0;
 }
 
+void helper2(){
+
+}
+
 void helper3(){
     
 }
